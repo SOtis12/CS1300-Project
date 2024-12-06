@@ -1,2 +1,2 @@
-# CS1300-Project
+# CS1400-Project
 This is a repository for the CS1400 Project
